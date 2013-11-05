@@ -1,0 +1,12 @@
+#!bin/bash
+
+port=80
+path_bin=`pwd`\/bin/
+
+echo -e "\033[36mConfiguration of SFI Server\033[0m"
+echo "Port: $port"
+echo "Bin:  $path_bin"
+
+
+
+echo -e "\033[36mSFI Server is now running...\033[0m"
